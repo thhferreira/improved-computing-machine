@@ -8,5 +8,4 @@ Como iniciar um git, como criar um COMMIT
 
 e como adicionar no GitHub
 
-Uma boa sorte para mim 
- 
+Uma boa sorte para mim
